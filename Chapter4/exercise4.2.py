@@ -4,7 +4,7 @@ import sys
 # Python for Informatics Exploring Information
 # Exercise 4.2 Move the last line of this program to the top, so the function call appears before the definitions. Run the program and see what error message you get.
 #
-# Note:  While there may be other ways to complete this exercise, I'm following the book in order.  Each example will only untilize techniques
+# Note:  While there may be other ways to complete this exercise, I'm following the book in order.  Each example will only utilize techniques
 # introduced up to that point in the text.
 
 repeat_lyrics()
