@@ -11,7 +11,7 @@ locale.setlocale( locale.LC_ALL, '' )
 # We won't worry about making sure our pay has exactly two digits after the decimal place for now. If you want, you can play with the built-in Python round function
 # to properly round the resulting pay to two decimal places.
 #
-# Note:  While there may be other ways to complete this exercise, I'm following the book in order.  Each example will only untilize techniques
+# Note:  While there may be other ways to complete this exercise, I'm following the book in order.  Each example will only utilize techniques
 # introduced up to that point in the text.
 
 
