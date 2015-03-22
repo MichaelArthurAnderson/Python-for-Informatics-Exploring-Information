@@ -12,7 +12,7 @@ import sys
 # 4. 1 + 2 * 5
 # Use the Python interpreter to check your answers.
 #
-# Note:  While there may be other ways to complete this exercise, I'm following the book in order.  Each example will only untilize techniques
+# Note:  While there may be other ways to complete this exercise, I'm following the book in order.  Each example will only utilize techniques
 # introduced up to that point in the text.
 
 width = 17
