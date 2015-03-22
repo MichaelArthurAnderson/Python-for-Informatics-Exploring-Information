@@ -13,7 +13,7 @@ import sys
 # fred()
 # jane()
 #
-# Note:  While there may be other ways to complete this exercise, I'm following the book in order.  Each example will only untilize techniques
+# Note:  While there may be other ways to complete this exercise, I'm following the book in order.  Each example will only utilize techniques
 # introduced up to that point in the text.
 
 def fred():
