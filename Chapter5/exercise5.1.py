@@ -12,7 +12,7 @@ import sys
 # Enter a number: done
 # 16 3 5.33333333333
 #
-# Note:  While there may be other ways to complete this exercise, I'm following the book in order.  Each example will only untilize techniques
+# Note:  While there may be other ways to complete this exercise, I'm following the book in order.  Each example will only utilize techniques
 # introduced up to that point in the text.
 
 input = 0

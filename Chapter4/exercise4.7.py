@@ -21,7 +21,7 @@ import sys
 # F
 # Run the program repeatedly as shown above to test the various different values for input.
 #
-# Note:  While there may be other ways to complete this exercise, I'm following the book in order.  Each example will only untilize techniques
+# Note:  While there may be other ways to complete this exercise, I'm following the book in order.  Each example will only utilize techniques
 # introduced up to that point in the text.
 
 

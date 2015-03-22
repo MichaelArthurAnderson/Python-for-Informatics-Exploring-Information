@@ -6,7 +6,7 @@ import sys
 # str = 'X-DSPAM-Confidence: 0.8475'
 # Use find and string slicing to extract the portion of the string after the colon character and then use the float function to convert the extracted string into a floating point number.
 #
-# Note:  While there may be other ways to complete this exercise, I'm following the book in order.  Each example will only untilize techniques
+# Note:  While there may be other ways to complete this exercise, I'm following the book in order.  Each example will only utilize techniques
 # introduced up to that point in the text.
 
 text = "X-DSPAM-Confidence:    0.8475";
