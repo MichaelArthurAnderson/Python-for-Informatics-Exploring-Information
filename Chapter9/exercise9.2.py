@@ -2,8 +2,7 @@
 import sys
 
 # Python for Informatics Exploring Information
-# Exercise 9.2 Write a program that categorizes each mail message by which day of the week the commit was done. To do this look for lines which start with 'From',
-# then look for the third word and then keep a running count of each of the days of the week. At the end of the program print out the contents of your dictionary (order does not matter).
+# Exercise 9.3 Write a program to read through a mail log, and build a histogram using a dictionary to count how many messages have come from each email address and print the dictionary.
 #
 # Note:  While there may be other ways to complete this exercise, I'm following the book in order.  Each example will only utilize techniques
 # introduced up to that point in the text.
@@ -24,12 +23,12 @@ counts = dict()
 for line in fh:
     words = line.split()
     
-    if not (len(words) >= 3 and words[0] == 'From') : continue
+    if not (len(words) >= 2 and words[0] == 'From') : continue
     
-    if words[2] not in counts:
-        counts[words[2]] = 1
+    if words[1] not in counts:
+        counts[words[1]] = 1
     else:
-        counts[words[2]] += 1
+        counts[words[1]] += 1
 
 print counts    
 
